@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/qtn3/calc/badge.svg?branch=master)](https://coveralls.io/github/qtn3/calc?branch=master)
